@@ -1420,6 +1420,9 @@
   "trond-snekvik.simple-rst": {
     "repository": "https://github.com/trond-snekvik/vscode-rst"
   },
+  "trytriplex.triplex-vsce": {
+    "repository": "https://github.com/pmndrs/triplex"
+  },
   "tuxtina.json2yaml": {
     "repository": "https://github.com/tuxtina/json2yaml"
   },
